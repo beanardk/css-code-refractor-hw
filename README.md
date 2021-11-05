@@ -1,2 +1,3 @@
-# css-code-refractor-hw
-css bootcamp code refractor homework
+# CSS Code Refractor HW
+Bernard Kung 
+##
